@@ -4,7 +4,7 @@ pipeline {
 
     environment {
         APP_NAME = 'jenkins-advanced-app'
-        IMAGE_NAME = 'sivasankari0041/jenkins-advanced-project'
+        IMAGE_NAME = 'sivasankari0041/jenkins-advanced-app'
         CONTAINER_NAME = 'jenkins-advanced-container'
         HOST_PORT = '8081'
     }
